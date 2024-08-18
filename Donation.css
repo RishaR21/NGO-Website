@@ -1,0 +1,52 @@
+.donation {
+    background-color: #B5CFB7  ;
+    padding: 40px;
+    background-image: "https://tse4.mm.bing.net/th?id=OIP.MmDiaaahdD2nJT-9lxxBrQHaHa&pid=Api&P=0&h=180";
+  }
+  
+  .donation h1 {
+    color: #2c3e50;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+  }
+   .donation h2{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+   }
+  .donation p {
+    color: #0c0d0d;
+  }
+  .donation img {
+    width: 24%;
+  mix-blend-mode: multiply;
+  }
+  
+  .donation .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .donation label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .donation input {
+    width: 50%;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .donation button {
+    padding: 10px 20px;
+    background-color: #d2a86c;
+    color: white;
+   border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .donation button:hover {
+    background-color: #e37898;
+  }
+  

@@ -1,0 +1,39 @@
+.contact {
+    background-color: #bdc3c7;
+    padding: 40px;
+  }
+  
+  .contact h1 {
+    color: #2c3e50;
+  }
+  .contact img{
+    mix-blend-mode: multiply;
+  }
+  .contact .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .contact label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .contact input,
+  .contact textarea {
+    width: 50%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .contact button {
+    padding: 10px 20px;
+    background-color: #496d85;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .contact button:hover {
+    background-color: #2980b9;
+  }
+  
